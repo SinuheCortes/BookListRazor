@@ -370,3 +370,4 @@ C:\Users\muech\source\Repos\BookListRazor\bin\Debug\netcoreapp3.1\runtimes\win\l
 C:\Users\muech\source\Repos\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.csproj.CoreCompileInputs.cache
 C:\Users\muech\source\Repos\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\muech\source\Repos\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\muech\source\Repos\BookListRazor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
